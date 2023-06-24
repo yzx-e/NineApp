@@ -1,0 +1,1 @@
+C:\dev\NineApp\NineApp\NineApp.csproj;x64
